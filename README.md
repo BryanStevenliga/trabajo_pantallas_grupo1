@@ -1,16 +1,24 @@
-# trabajo_grupo
+# Trabajo en Grupo - Pantallas Flutter
 
-A new Flutter project.
+Aplicación desarrollada en Flutter que integra las pantallas individuales de cada integrante del grupo mediante navegación desde la pantalla principal.
 
-## Getting Started
+## Integrantes
 
-This project is a starting point for a Flutter application.
+- Steven Ninasunta
+- Ronny Villa
+- Julian Chavez
+- Ricardo Astudillo
+- Mateo Guerron
+- Alizon Pilatuña
+- Juan Guerra
 
-A few resources to get you started if this is your first Flutter project:
+## Estructura del proyecto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- `lib/main.dart`: Pantalla principal con navegación hacia las 7 pantallas.
+- `lib/Presentacion/screens/`: Pantallas individuales creadas por cada integrante.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+   ```bash
+   git clone [https://github.com/BryanStevenliga/trabajo_pantallas_grupo1.git](https://github.com/BryanStevenliga/trabajo_pantallas_grupo1.git)
